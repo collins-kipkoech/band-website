@@ -1,0 +1,12 @@
+body{
+    background-color: khaki;
+    font-family: sans-serif;
+}
+.sidebar{
+    float: left;
+    width: 350px;
+}
+.column{
+    float: left;
+    width: 450px;
+}
