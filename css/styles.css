@@ -5,8 +5,12 @@ body{
 .sidebar{
     float: left;
     width: 350px;
+    border: 2px solid blue;
 }
 .column{
     float: left;
     width: 450px;
+}
+.column img{
+    padding: 5px;
 }
